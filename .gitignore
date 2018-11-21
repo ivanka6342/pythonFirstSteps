@@ -1,8 +1,8 @@
 # token protection
-./tgBot/botToken.py
+tgBot/botToken.py
 
 # ignore python cache
-./tgBot/__pycache__/**
+tgBot/__pycache__/**
 
 # file for json parsing
-./tgBot/dumpJSONrequest.txt
+tgBot/dumpJSONrequest.txt
